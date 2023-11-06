@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//Write a Java program to compute the square root of an given integer
+
 public class java23 {
     public static void main(String[] args) {
         int num;

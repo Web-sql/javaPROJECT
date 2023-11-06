@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//Write a Java method to find number is even number or not
+
 public class java128 {
 
     public static void main(String[] args) {

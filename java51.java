@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//Java Program To Calculate Power Of Number
+
 public class java51 {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
