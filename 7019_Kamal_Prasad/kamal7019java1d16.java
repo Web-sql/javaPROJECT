@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 // Program to Find 3rd Largest Number in an array
 
-public class java1d16 {
+ class kamal7019java1d16 {
     public static int getThirdLargest(int[] a, int total) {
         Arrays.sort(a);
         return a[total - 3];

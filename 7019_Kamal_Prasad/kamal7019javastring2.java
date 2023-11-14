@@ -1,4 +1,4 @@
-public class javastring2 {
+ class kamal7019javastring2 {
 
     //Program to Add Two Matrices
 

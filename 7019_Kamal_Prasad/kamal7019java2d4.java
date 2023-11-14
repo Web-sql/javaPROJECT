@@ -1,4 +1,4 @@
-public class java2d4 {
+public class kamal7019java2d4 {
 
     //Program to subtract the two matrices
     public static void main(String[] args) {

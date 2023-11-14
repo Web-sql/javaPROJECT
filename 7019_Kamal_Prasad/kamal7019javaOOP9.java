@@ -36,7 +36,7 @@ class Employee {
     }
 }
 
-public class javaoop9 {
+ class kamal7019javaOOP9 {
     public static void main(String[] args) {
         try {
             SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");

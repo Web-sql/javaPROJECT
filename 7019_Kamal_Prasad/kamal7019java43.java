@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //Java program to sum of N numbers
 
-public class java43 {
+    class kamal7019java43 {
     public static void main(String arg[]) {
         int n, sum = 0;
         Scanner sc = new Scanner(System.in);

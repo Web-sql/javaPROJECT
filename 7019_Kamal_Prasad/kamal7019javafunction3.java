@@ -4,7 +4,7 @@ import java.util.Scanner;
 //a) If the length of the string is odd there will be two middle characters. b) 
 //If the length of the string is even there will be one middle character.
 
-public class javafunction3 {
+  class kamal7019javafunction3 {
   public static void main(String[] args)
     {
         Scanner in = new Scanner(System.in);
